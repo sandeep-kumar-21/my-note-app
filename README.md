@@ -2,6 +2,7 @@
 
 A professional note-taking application designed with a focus on performance, type safety, and modern user interface principles. This application leverages Next.js Server Actions for efficient data handling and MongoDB for persistent storage.
 
+
 ![alt text](image-1.png)
 
 ## Project Overview
